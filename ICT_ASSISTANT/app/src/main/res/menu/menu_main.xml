@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.lemon.ict_assistant.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        app:showAsAction="always" >
+        <menu>
+            <item
+                android:id="@+id/action_setPrecision"
+                android:title="@string/precision"
+                android:icon="@drawable/ic_touch_app_black_24dp"
+                app:showAsAction="ifRoom"/>
+
+
+            <item
+                android:id="@+id/action_usage"
+                android:title="Usage"
+                android:icon="@drawable/ic_stay_current_portrait_black_24dp"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/action_about"
+                android:title="@string/about"
+                android:icon="@drawable/ic_person_black_24dp"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/action_exit"
+                android:title="@string/exit_app"
+                android:icon="@drawable/ic_cancel_black_24dp"
+                app:showAsAction="ifRoom"/>
+
+
+        </menu>
+    </item>
+</menu>

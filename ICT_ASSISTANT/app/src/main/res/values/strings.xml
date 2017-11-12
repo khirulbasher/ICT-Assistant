@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ICT Assistant</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-5448795572718333/7856882802</string>
+    <string name="number_system_conversion">Number System Conversion</string>
+    <string name="this_will_help_you_to_convert_one_number_system_to_another">This will help you to convert one Number System To Another</string>
+    <string name="mathematics_with_number_system">Mathematical Operations</string>
+    <string name="this_will_help_you_on_mathematical_operation">This Will Help You on Mathematical Operation</string>
+    <string name="first_parameter">First Parameter</string>
+    <string name="param_second">Second Parameter</string>
+    <string name="precision">Precision</string>
+    <string name="about">About</string>
+    <string name="exit_app">Exit App</string>
+    <string name="hex">HEX</string>
+    <string name="dec">DEC</string>
+    <string name="oct">OCT</string>
+    <string name="bin">BIN</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="mul">MUL</string>
+    <string name="div">DIV</string>
+    <string name="equation">Solving</string>
+    <string name="subtract">-</string>
+    <string name="_101">101</string>
+    <string name="_9">9</string>
+    <string name="_110">110</string>
+    <string name="convert_from">Convert From:</string>
+    <string name="convert_to">Convert To:</string>
+    <string name="parameter">Enter Number</string>
+    <string name="dedicate">Dedicate to Toma: \n Hazi Lalmia City College, Gopalganj.</string>
+    <string name="set_your_fractional_precision">Set Your Fractional Precision</string>
+    <string name="integer_part">Integer Part</string>
+    <string name="fractional_part">Fractional Part</string>
+</resources>
